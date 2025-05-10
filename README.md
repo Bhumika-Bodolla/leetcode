@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0050-powx-n) |
 ## String Matching
 |  |
 | ------- |
