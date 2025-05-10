@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0016-3sum-closest) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0016-3sum-closest) |
 ## String
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0012-integer-to-roman) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
