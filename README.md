@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0742-to-lower-case](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0742-to-lower-case) |
 ## Dynamic Programming
 |  |
 | ------- |
