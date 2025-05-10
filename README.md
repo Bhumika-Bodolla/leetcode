@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0149-max-points-on-a-line](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
@@ -64,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0050-powx-n) |
+| [0149-max-points-on-a-line](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0149-max-points-on-a-line) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0149-max-points-on-a-line](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0149-max-points-on-a-line) |
 ## Sorting
 |  |
 | ------- |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
