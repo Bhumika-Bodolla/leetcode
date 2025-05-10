@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0782-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0500-keyboard-row) |
+| [0782-jewels-and-stones](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0782-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
