@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0500-keyboard-row) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0500-keyboard-row) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0500-keyboard-row) |
 ## Sorting
 |  |
 | ------- |
