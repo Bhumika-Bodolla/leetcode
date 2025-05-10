@@ -201,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0174-dungeon-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
