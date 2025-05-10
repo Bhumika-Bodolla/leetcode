@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0168-excel-sheet-column-title](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Hash Table
 |  |
 | ------- |
