@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
