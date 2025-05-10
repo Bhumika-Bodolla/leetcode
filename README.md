@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,4 +31,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0012-integer-to-roman) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
