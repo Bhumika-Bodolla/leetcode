@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0383-ransom-note) |
 ## Matrix
 |  |
 | ------- |
