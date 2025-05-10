@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0218-the-skyline-problem) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0191-number-of-1-bits) |
+| [0218-the-skyline-problem](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0218-the-skyline-problem) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,4 +244,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0214-shortest-palindrome) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0218-the-skyline-problem) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
