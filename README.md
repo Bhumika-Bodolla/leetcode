@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0042-trapping-rain-water) |
+| [0119-pascals-triangle-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Math
 |  |
 | ------- |
