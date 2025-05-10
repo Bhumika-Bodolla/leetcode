@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0042-trapping-rain-water) |
 ## Recursion
 |  |
 | ------- |
@@ -90,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
