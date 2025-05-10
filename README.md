@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0042-trapping-rain-water) |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0044-wildcard-matching) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
