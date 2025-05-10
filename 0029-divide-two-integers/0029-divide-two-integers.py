@@ -1,6 +1,6 @@
 class Solution:
     def divide(self, dividend: int, divisor: int) -> int:
-        # Handle division by zero
+        
         if divisor == 0:
             return 2**31 - 1
 
