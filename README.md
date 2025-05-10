@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0115-distinct-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0044-wildcard-matching) |
+| [0115-distinct-subsequences](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0115-distinct-subsequences) |
 ## Math
 |  |
 | ------- |
