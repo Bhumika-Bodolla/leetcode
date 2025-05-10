@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0496-next-greater-element-i](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Recursion
@@ -362,4 +364,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
