@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0042-trapping-rain-water) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0149-max-points-on-a-line](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0149-max-points-on-a-line) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0191-number-of-1-bits) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0112-path-sum) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0112-path-sum) |
@@ -214,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0185-department-top-three-salaries) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
