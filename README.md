@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
