@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0174-dungeon-game](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0174-dungeon-game) |
 ## Math
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0174-dungeon-game) |
 <!---LeetCode Topics End-->
