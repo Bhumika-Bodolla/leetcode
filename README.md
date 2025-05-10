@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
