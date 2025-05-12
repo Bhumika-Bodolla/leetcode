@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0392-is-subsequence](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -370,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0682-baseball-game) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
