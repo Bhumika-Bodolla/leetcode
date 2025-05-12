@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0392-is-subsequence](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -380,4 +382,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
