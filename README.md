@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -376,5 +378,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
