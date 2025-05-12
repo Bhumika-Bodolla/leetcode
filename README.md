@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0682-baseball-game) |
+| [0747-min-cost-climbing-stairs](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0392-is-subsequence](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Bhumika-Bodolla/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Math
