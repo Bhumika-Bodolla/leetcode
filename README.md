@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0485-max-consecutive-ones](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Bhumika-Bodolla/leetcode/tree/master/0503-next-greater-element-ii) |
